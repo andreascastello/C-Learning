@@ -1,0 +1,9 @@
+bin
+obj
+html
+latex
+SDL2-2.0.12
+*.cbp
+*.depend
+*.layout
+*.pdf
